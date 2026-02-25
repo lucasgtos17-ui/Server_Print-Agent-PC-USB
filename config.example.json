@@ -1,0 +1,13 @@
+﻿{
+  "papercut_log_dir": "C:\\Program Files\\PaperCut MF\\server\\logs\\print-logs",
+  "papercut_log_glob": "printlog_*.log",
+  "papercut_xmlrpc_url": "https://SERVERNAME:9192/rpc/api/xmlrpc",
+  "papercut_auth_token": "CHANGE_ME",
+  "papercut_verify_tls": true,
+  "db_path": "data\\papercut.db",
+  "server_host": "0.0.0.0",
+  "server_port": 8088,
+  "default_days": 7,
+  "printer_poll_enabled": true,
+  "printer_poll_interval_sec": 60
+}
