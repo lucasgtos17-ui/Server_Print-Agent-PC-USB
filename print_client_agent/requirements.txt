@@ -1,0 +1,4 @@
+requests==2.32.3
+pywin32==311
+pystray==0.19.5
+pillow==12.1.1

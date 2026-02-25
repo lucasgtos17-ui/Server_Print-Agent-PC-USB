@@ -1,0 +1,6 @@
+﻿{
+  "server_url": "http://SERVIDOR:8088",
+  "printer_name": "",
+  "poll_interval_sec": 5,
+  "start_with_windows": false
+}
